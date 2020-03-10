@@ -14,3 +14,4 @@ git clone \<url\>
 
 1. `git mv`
 2. `git rm`
+3. `git status`
